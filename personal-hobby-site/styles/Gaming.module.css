@@ -1,0 +1,29 @@
+.gamingSection {
+    background-color: #f9f9f9;
+    padding: 50px 20px;
+  }
+  
+  .gamingTitle {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .gamingDescription {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .gameList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .gameItem {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .gameItem:last-child {
+    border-bottom: none;
+  }
+  
