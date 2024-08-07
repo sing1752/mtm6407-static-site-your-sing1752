@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+    "export": "next export",
+    "start": "next start"
+  }
+  ,
   "dependencies": {
     "bootstrap": "^5.3.3",
     "next": "latest",

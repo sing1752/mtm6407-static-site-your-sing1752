@@ -8,7 +8,7 @@ export default function Learning() {
         <h1 className={styles.learningTitle}>Learning New Things</h1>
         <p className={styles.learningDescription}>
           Lifelong learning is important to me. I am always eager to expand my knowledge and skills. Here are some areas
-          I’m currently exploring:
+          I am currently exploring:
         </p>
         <ul className={styles.learningList}>
           <li className={styles.learningItem}>
