@@ -11,7 +11,7 @@ export default function Home() {
       <section className={styles.intro}>
         <h2>About Me</h2>
         <p>
-          Hello! I'm Devjeet Singh, and this site is a reflection of my hobbies and interests. From reading
+          Hello! I am Devjeet Singh, and this site is a reflection of my hobbies and interests. From reading
           captivating books to exploring new video games, learning new skills, working out, meditating, and
           cooking diverse cuisines, this site covers it all. Feel free to navigate through the pages to learn more
           about each of my passions!
