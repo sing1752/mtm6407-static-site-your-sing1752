@@ -1,0 +1,38 @@
+.pageSection {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pageTitle {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .pageDescription {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .list-group-item {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    padding: 15px;
+  }
+  
+  .list-group-item strong {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .list-group-item:hover {
+    background-color: #e9ecef;
+  }
+  
