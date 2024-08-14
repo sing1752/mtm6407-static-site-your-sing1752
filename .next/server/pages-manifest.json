@@ -1,11 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/reading": "pages/reading.js",
-  "/gaming": "pages/gaming.js",
-  "/workouts": "pages/workouts.js",
-  "/meditation": "pages/meditation.js",
-  "/cooking": "pages/cooking.js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/cooking":"pages/cooking.html","/":"pages/index.html","/gaming":"pages/gaming.html","/learning":"pages/learning.html","/meditation":"pages/meditation.html","/reading":"pages/reading.html","/workouts":"pages/workouts.html","/_document":"pages/_document.js","/404":"pages/404.html"}
