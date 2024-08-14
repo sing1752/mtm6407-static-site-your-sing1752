@@ -1,0 +1,29 @@
+.meditationSection {
+    background-color: #fff;
+    padding: 50px 20px;
+  }
+  
+  .meditationTitle {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .meditationDescription {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .meditationList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .meditationItem {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .meditationItem:last-child {
+    border-bottom: none;
+  }
+  
