@@ -5,81 +5,81 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/04rKbXbWZDhoHJOl4-V2x/_buildManifest.js",
-    "static/04rKbXbWZDhoHJOl4-V2x/_ssgManifest.js"
+    "static/iV7vuNu_PMs0scso2hCiO/_buildManifest.js",
+    "static/iV7vuNu_PMs0scso2hCiO/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/css/10cf04b6acf7a3c1.css",
       "static/chunks/443-36aaaa192f8730ac.js",
       "static/css/4431876453c23583.css",
       "static/chunks/pages/index-b25de9861e5cdaa7.js"
     ],
     "/_app": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/chunks/pages/_app-753213cf38d40131.js"
     ],
     "/_error": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/chunks/pages/_error-77823ddac6993d35.js"
     ],
     "/cooking": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/css/10cf04b6acf7a3c1.css",
       "static/chunks/443-36aaaa192f8730ac.js",
       "static/css/198d1f00a7c9e86a.css",
       "static/chunks/pages/cooking-0c0e02246c6e44b3.js"
     ],
     "/gaming": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/css/10cf04b6acf7a3c1.css",
       "static/chunks/443-36aaaa192f8730ac.js",
       "static/css/198d1f00a7c9e86a.css",
       "static/chunks/pages/gaming-989dcfe1a1b12fbb.js"
     ],
     "/learning": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/css/10cf04b6acf7a3c1.css",
       "static/chunks/443-36aaaa192f8730ac.js",
       "static/css/198d1f00a7c9e86a.css",
       "static/chunks/pages/learning-5c0de8d0ab1b858c.js"
     ],
     "/meditation": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/css/10cf04b6acf7a3c1.css",
       "static/chunks/443-36aaaa192f8730ac.js",
       "static/css/198d1f00a7c9e86a.css",
       "static/chunks/pages/meditation-3702dd6cba0cc1d5.js"
     ],
     "/reading": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/css/10cf04b6acf7a3c1.css",
       "static/chunks/443-36aaaa192f8730ac.js",
       "static/css/198d1f00a7c9e86a.css",
       "static/chunks/pages/reading-89ab5ad94d477bcb.js"
     ],
     "/workouts": [
-      "static/chunks/webpack-f713bf2bd591c436.js",
+      "static/chunks/webpack-2a9a36b6f8ec5638.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
-      "static/chunks/main-cc37c3a693513da0.js",
+      "static/chunks/main-822ebaf26087113a.js",
       "static/css/10cf04b6acf7a3c1.css",
       "static/chunks/443-36aaaa192f8730ac.js",
       "static/css/198d1f00a7c9e86a.css",
