@@ -1,0 +1,36 @@
+.hero {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 8px;
+  }
+  
+  .heroTitle {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .heroSubtitle {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+  
+  .intro {
+    margin-top: 40px;
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+  }
+  
+  .intro h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .intro p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
