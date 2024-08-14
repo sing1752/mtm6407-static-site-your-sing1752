@@ -6,6 +6,6 @@ export default {
   images: {
     unoptimized: true,  // Necessary for static export
   },
-  basePath: isProd ? '/mtm6407-static-site-your-github-username/' : '',
+  basePath: isProd ? '/mtm6407-static-site-sing1752' : '',
   trailingSlash: true,
 };
